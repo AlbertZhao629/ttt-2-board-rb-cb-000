@@ -9,4 +9,3 @@ board = "waef "
 board = "rgww "
 board = "qwef "
 board = "efwq "
-
